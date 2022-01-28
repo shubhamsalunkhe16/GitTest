@@ -17,17 +17,11 @@
 }
 
 .postContainer {
-<<<<<<< HEAD
-  width: 500px;
-  border: 1px solid black;
-  margin-bottom: 10px;
-=======
-  width: 440px;
-  border: 2px solid black;
+  width: 460px;
+  border: 5px solid black;
   margin-bottom: 12px;
->>>>>>> 915736721bbb14d2a258750ce46f90f38c259cee
   list-style: none;
-  text-align: center;
+  text-align: left;
 }
 
 button {
