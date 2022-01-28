@@ -17,9 +17,15 @@
 }
 
 .postContainer {
+<<<<<<< HEAD
   width: 580px;
   border: 10px solid black;
   margin-bottom: 15px;
+=======
+  width: 420px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+>>>>>>> parent of 9157367... update
   list-style: none;
   text-align: left;
 }
