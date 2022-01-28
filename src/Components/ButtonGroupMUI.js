@@ -22,7 +22,7 @@ const ButtonGroupMUI = () => {
             <Button>Four</Button>
           </ButtonGroup>
 
-          <ButtonGroup variant="contained" aria-label="text button group">
+          <ButtonGroup variant="text" aria-label="text button group">
             <Button>One</Button>
             <Button>Two</Button>
             <Button>Three</Button>
