@@ -17,11 +17,7 @@
 }
 
 .postContainer {
-<<<<<<< HEAD
-  width: 42220px;
-=======
-  width: 410px;
->>>>>>> 2bcb15fc3a1c7631dcaf64db5d8871818e2af90c
+  width: 400px;
   border: 1px solid black;
   margin-bottom: 10px;
   list-style: none;
