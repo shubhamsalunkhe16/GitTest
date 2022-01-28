@@ -1,0 +1,48 @@
+[33mcommit 8e7ad0457262f0b20895b1f3b5b6507be1db6114[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 0de7d68 d70f2c2
+Author: Shubham <salunkheshubham0@gmail.com>
+Date:   Fri Jan 28 12:21:51 2022 +0530
+
+    app version 1.0
+
+[33mcommit 0de7d68e3de30b2041e4980fef6ab60a4e5880a2[m
+Author: Shubham <salunkheshubham0@gmail.com>
+Date:   Fri Jan 28 12:18:29 2022 +0530
+
+    git
+
+[33mcommit d70f2c2fa39bc3dc0e2a8f1e88da4f40e27432ab[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: Shubham <salunkheshubham0@gmail.com>
+Date:   Fri Jan 28 11:58:35 2022 +0530
+
+    git file update
+
+[33mcommit 81869f2c8b14808ddb6ba4d6d60928606cebfb19[m
+Author: Shubham <salunkheshubham0@gmail.com>
+Date:   Fri Jan 28 11:57:53 2022 +0530
+
+    git file update
+
+[33mcommit b708d8855fdff816488e71c8b9c845e48c97eab0[m
+Author: Shubham <salunkheshubham0@gmail.com>
+Date:   Fri Jan 28 11:54:05 2022 +0530
+
+    changed buttonGroup type
+
+[33mcommit 40c5564a9b2f9bef0a9ded2bf12f99ec1cfa38e0[m
+Author: Shubham <salunkheshubham0@gmail.com>
+Date:   Fri Jan 28 11:31:22 2022 +0530
+
+    UI update - margin change
+
+[33mcommit ad43e7f60e21ba05090e9cd1ee10abf9e3ae0933[m
+Author: Shubham <salunkheshubham0@gmail.com>
+Date:   Fri Jan 28 11:28:16 2022 +0530
+
+    button added
+
+[33mcommit 61bb45c88e8f1a3296912939e1950ef2508a1118[m
+Author: Shubham <salunkheshubham0@gmail.com>
+Date:   Fri Jan 28 11:26:07 2022 +0530
+
+    First commit
