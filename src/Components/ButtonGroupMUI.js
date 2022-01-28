@@ -11,7 +11,7 @@ const ButtonGroupMUI = () => {
           display: "flex",
           justifyContent: "center",
           backgroundColor: "#e5e0d9",
-          m: "15",
+          m: "10",
         }}
       >
         <Stack direction="row" spacing={2}>
