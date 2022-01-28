@@ -19,12 +19,14 @@ const ButtonGroupMUI = () => {
             <Button>One</Button>
             <Button>Two</Button>
             <Button>Three</Button>
+            <Button>Four</Button>
           </ButtonGroup>
 
           <ButtonGroup variant="contained" aria-label="text button group">
             <Button>One</Button>
             <Button>Two</Button>
             <Button>Three</Button>
+            <Button>Four</Button>
           </ButtonGroup>
         </Stack>
       </Box>
