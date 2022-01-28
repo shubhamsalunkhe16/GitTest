@@ -17,11 +17,7 @@
 }
 
 .postContainer {
-<<<<<<< HEAD
-  width: 420px;
-=======
-  width: 400px;
->>>>>>> parent of 0829fc4... First commit
+  width: 410px;
   border: 1px solid black;
   margin-bottom: 10px;
   list-style: none;
